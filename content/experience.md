@@ -1,33 +1,22 @@
 ---
-title: 'Experience'
-date: 2023-10-24
+title: 'Professional Experience'
+date: 2026-11-23
 type: landing
-
-design:
-  spacing: '5rem'
-
-# Note: `username` refers to the user's folder name in `content/authors/`
-
-# Page sections
-sections:
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      # Hugo date format
-      date_format: 'January 2006'
-      # Education or Experience section first?
-      is_education_first: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: me
-  - block: resume-awards
-    content:
-      title: Awards
-      username: me
-  - block: resume-languages
-    content:
-      title: Languages
-      username: me
 ---
+
+My professional experience spans more than **15 years** in infectious disease
+research and public health, with work and collaborations involving **KEMRI,
+the KEMRI-Wellcome Trust Research Programme, CDC and WHO**.
+
+## Areas of contribution
+
+- Molecular surveillance and genomic epidemiology of public health pathogens.
+- Laboratory testing, sample processing, sequencing and interpretation of
+  molecular and genomic data.
+- Outbreak investigation and public health response.
+- Strengthening genomic surveillance systems in national and regional laboratories.
+- Introduction of sequencing technologies and bioinformatics workflows.
+- Research collaboration, scientific working groups, training and capacity building.
+
+*Specific appointments, titles and dates are intentionally not listed here until
+they can be checked against the full professional CV or LinkedIn profile.*

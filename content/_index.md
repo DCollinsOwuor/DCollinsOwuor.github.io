@@ -1,127 +1,111 @@
 ---
-# Leave the homepage title empty to use the site title
 title: ''
-summary: ''
-date: 2022-10-24
+summary: 'Professional profile of Dr David Collins Owuor, genomic epidemiologist and bioinformatician working in pathogen genomics, molecular surveillance and public health.'
+date: 2026-11-23
 type: landing
 
 sections:
   - block: resume-biography-3
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
       username: me
       text: ''
-      # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: Professional Profile
+        education: Education
+        interests: Research Interests
     design:
-      # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
         gradient_mesh:
           enable: true
-
-      # Name heading sizing to accommodate long or short names
       name:
-        size: md # Options: xs, sm, md, lg (default), xl
-
-      # Avatar customization
+        size: md
       avatar:
-        size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: circle # Options: circle (default), square, rounded
+        size: large
+        shape: circle
+
   - block: markdown
+    id: research
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: 'Research and Public Health Focus'
+      subtitle: 'From pathogen sequence data to public health action'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        My work sits at the intersection of **genomic epidemiology, bioinformatics,
+        molecular surveillance and infectious disease control**. I am interested
+        in applying pathogen genomic data and complementary epidemiological
+        information to understand transmission, monitor pathogen evolution,
+        investigate outbreaks and inform public health decisions.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        Current and recurring areas of scientific interest include:
 
-        Please reach out to collaborate 😃
+        - **Poliovirus genomics:** molecular evolution, cVDPV2 transmission,
+          VP1 variation and genomic surveillance.
+        - **Measles genomics:** whole-genome sequencing, lineage diversity and
+          cross-border phylogeography.
+        - **Wastewater surveillance:** sequencing and bioinformatics approaches
+          for detecting and characterising pathogens.
+        - **Methods and systems:** reproducible bioinformatics, data science,
+          AI-enabled analysis, molecular diagnostics and laboratory capacity
+          strengthening.
+
+        I welcome scientific collaborations, research partnerships and
+        opportunities to strengthen pathogen genomic surveillance in Africa.
     design:
       columns: '1'
+
+  - block: markdown
+    id: experience
+    content:
+      title: 'Professional Experience'
+      subtitle: 'Research, surveillance systems and public health collaboration'
+      text: |-
+        My professional experience spans more than **15 years** in infectious
+        disease research and public health, with work and collaborations involving
+        **KEMRI, the KEMRI-Wellcome Trust Research Programme, the US Centers for
+        Disease Control and Prevention (CDC), and the World Health Organization
+        (WHO)**.
+
+        Areas of contribution include:
+
+        - Molecular surveillance and genomic epidemiology of public health pathogens.
+        - Laboratory testing, sample processing, sequencing and interpretation
+          of molecular and genomic data.
+        - Support for outbreak investigations and public health response.
+        - Development and strengthening of genomic surveillance systems in
+          national and regional laboratories.
+        - Introduction and application of sequencing technologies and
+          bioinformatics workflows.
+        - Research collaboration, scientific working groups, training and
+          capacity development.
+    design:
+      columns: '1'
+
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 'Selected Publications'
+      text: 'Peer-reviewed research and scientific contributions.'
       filters:
         folders:
           - publications
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
       view: citation
-  - block: collection
-    id: talks
+      columns: 1
+
+  - block: markdown
+    id: contact
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - events
-    design:
-      view: card
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: blog
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 10
-      # Filter on criteria
-      filters:
-        author: ''
-        category: ''
-        tag: ''
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ''
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
-  - block: cta-card
-    demo: true # Only display this section in the HugoBlox Kit demo site
-    content:
-      title: 👉 Build your own academic website like this
+      title: 'Collaboration and Contact'
       text: |-
-        This site is generated by HugoBlox Kit - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
+        I am interested in collaborations in pathogen genomics, genomic
+        epidemiology, molecular surveillance, bioinformatics, laboratory systems
+        strengthening and public health research.
 
-        <a class="github-button" href="https://github.com/HugoBlox/kit" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/kit on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        Connect with me on [LinkedIn](https://www.linkedin.com/in/david-collins-owuor/)
+        or explore my work on [GitHub](https://github.com/DCollinsOwuor).
     design:
-      card:
-        # Card background color (CSS class)
-        css_class: 'bg-gradient-to-br from-primary-500 via-primary-600 to-secondary-600 text-white shadow-2xl'
-        css_style: ''
+      columns: '1'
 ---
