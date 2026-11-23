@@ -3,7 +3,7 @@ slug: me
 is_owner: true
 
 name:
-  display: Dr David Collins Owuor
+  display: David Collins Owuor, PhD
   given: David Collins
   family: Owuor
   alternate: ''
@@ -42,7 +42,12 @@ interests:
   - Outbreak investigation and response
   - Genomic surveillance capacity strengthening in Africa
 
-education: []
+education: |
+    PhD 
+
+    MSc
+
+    BSc
 experience: []
 
 skills:
