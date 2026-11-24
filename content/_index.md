@@ -13,7 +13,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: Professional Profile
+        about: Professional Summary
         education: Education
         interests: Research Interests
     design:
@@ -23,7 +23,7 @@ sections:
       name:
         size: md
       avatar:
-        size: large
+        size: medium
         shape: circle
 
   - block: markdown
@@ -54,11 +54,38 @@ sections:
         opportunities to strengthen pathogen genomic surveillance in Africa.
     design:
       columns: '1'
+  
+  - block: collection
+    id: papers
+    content:
+      title: 'Recent Publications'
+      text: 'Peer-reviewed research and scientific contributions.'
+      filters:
+        folders:
+          - publications
+        featured_only: true
+    design:
+      view: citation
+      columns: 1
+
+  - block: markdown
+    id: contact
+    content:
+      title: 'Collaboration and Contact'
+      text: |-
+        I am interested in collaborations in pathogen genomics, genomic
+        epidemiology, molecular surveillance, bioinformatics, laboratory systems
+        strengthening and public health research.
+
+        Connect with me on [LinkedIn](https://www.linkedin.com/in/david-collins-owuor/)
+        or explore my work on [GitHub](https://github.com/DCollinsOwuor).
+    design:
+      columns: '1'
 
   - block: markdown
     id: experience
     content:
-      title: 'Professional Experience'
+      title: 'Experience'
       subtitle: 'Research, surveillance systems and public health collaboration'
       text: |-
         My professional experience spans more than **15 years** in infectious
@@ -82,30 +109,4 @@ sections:
     design:
       columns: '1'
 
-  - block: collection
-    id: papers
-    content:
-      title: 'Selected Publications'
-      text: 'Peer-reviewed research and scientific contributions.'
-      filters:
-        folders:
-          - publications
-        featured_only: true
-    design:
-      view: citation
-      columns: 1
-
-  - block: markdown
-    id: contact
-    content:
-      title: 'Collaboration and Contact'
-      text: |-
-        I am interested in collaborations in pathogen genomics, genomic
-        epidemiology, molecular surveillance, bioinformatics, laboratory systems
-        strengthening and public health research.
-
-        Connect with me on [LinkedIn](https://www.linkedin.com/in/david-collins-owuor/)
-        or explore my work on [GitHub](https://github.com/DCollinsOwuor).
-    design:
-      columns: '1'
 ---
