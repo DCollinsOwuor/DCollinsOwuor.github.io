@@ -100,22 +100,17 @@ education:
     end: "2010"
 
 experience:
-  - role: "Technical Lead – Global Pathogen Analysis Platform (GPAP) and Local Pathogen Analysis Platform (LPAP)"
-    org: "KEMRI Centre for Virus Research"
-    start: "2026-09-01"
-    summary: |
-      Providing technical leadership for AI-enabled pathogen analysis platforms and computational approaches for public health. Supporting platform development, genomic surveillance, bioinformatics innovation and the translation of pathogen data into public health intelligence.
-
   - role: "Senior Research Scientist (Non-tenured)"
     org: "KEMRI Centre for Virus Research"
-    start: "2026-05-01"
+    start: "2024-01-01"
+    end: "2025-04-30"
     summary: |
-      Conducting infectious disease research with emphasis on pathogen genomics, bioinformatics, genomic surveillance, molecular epidemiology and research capacity strengthening.
+      Conducted infectious disease research with emphasis on pathogen genomics, bioinformatics, genomic surveillance, molecular epidemiology and research capacity strengthening.
 
   - role: "Virology and Bioinformatics Consultant"
     org: "Global Polio Eradication Initiative – WHO Regional Office for Africa"
     start: "2024-05-01"
-    end: "2025-12-31"
+    end: "2025-04-30"
     summary: |
       Supported poliovirus genomic epidemiology and regional surveillance through bioinformatics workflows, high-performance computing and cloud-based analyses using Python and R. Contributed to surveillance metrics, technical reports, scientific publications and regional bulletins. Supported sequencing expansion, quality assurance, laboratory systems strengthening, training and accreditation activities.
 
