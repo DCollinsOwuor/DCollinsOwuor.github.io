@@ -10,7 +10,6 @@ sections:
       username: me
       text: ''
       button:
-        text: Download CV
         url: uploads/resume.pdf
       headings:
         about: Professional Summary
@@ -32,26 +31,6 @@ sections:
       title: 'Research and Public Health Focus'
       subtitle: 'From pathogen sequence data to public health action'
       text: |-
-        My work sits at the intersection of **genomic epidemiology, bioinformatics,
-        molecular surveillance and infectious disease control**. I am interested
-        in applying pathogen genomic data and complementary epidemiological
-        information to understand transmission, monitor pathogen evolution,
-        investigate outbreaks and inform public health decisions.
-
-        Current and recurring areas of scientific interest include:
-
-        - **Poliovirus genomics:** molecular evolution, cVDPV2 transmission,
-          VP1 variation and genomic surveillance.
-        - **Measles genomics:** whole-genome sequencing, lineage diversity and
-          cross-border phylogeography.
-        - **Wastewater surveillance:** sequencing and bioinformatics approaches
-          for detecting and characterising pathogens.
-        - **Methods and systems:** reproducible bioinformatics, data science,
-          AI-enabled analysis, molecular diagnostics and laboratory capacity
-          strengthening.
-
-        I welcome scientific collaborations, research partnerships and
-        opportunities to strengthen pathogen genomic surveillance in Africa.
     design:
       columns: '1'
   
