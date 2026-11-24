@@ -28,6 +28,12 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/david-collins-owuor/
     label: LinkedIn
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0002-7830-5475
+    label: ORCID
+  - icon: brands/google-scholar
+    url: https://scholar.google.com/citations?view_op=search_authors&mauthors=d.+Collins+Owuor&hl=en&oi=ao
+    label: ORCID 
   - icon: brands/github
     url: https://github.com/DCollinsOwuor
     label: GitHub
