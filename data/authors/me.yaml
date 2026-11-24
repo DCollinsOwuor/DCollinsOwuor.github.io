@@ -15,7 +15,7 @@ status:
   icon: "🧬"
 role: Global Health Programmes | Disease Surveillance Systems| Preparedness & Response | Strategic Partnerships
 bio: |
-  David Collins Owuor is strategic global health leader with expertise in genomic
+  David Collins Owuor is a strategic global health leader with expertise in genomic
   epidemiology, disease surveillance systems, preparedness planning, programme 
   coordination, stakeholder engagement, and partnership development. 
   
@@ -32,8 +32,8 @@ links:
     url: https://orcid.org/0000-0002-7830-5475
     label: ORCID
   - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?view_op=search_authors&mauthors=d.+Collins+Owuor&hl=en&oi=ao
-    label: ORCID 
+    url: https://scholar.google.com/citations?hl=en&user=SuSyf5oAAAAJ
+    label: Google Scholar 
   - icon: brands/github
     url: https://github.com/DCollinsOwuor
     label: GitHub
