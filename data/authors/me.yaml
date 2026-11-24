@@ -1,5 +1,5 @@
-
-schema: "hugoblox/author/v1"
+# data/authors/me.yaml
+# Hugo Blox Author Profile (schema: hugoblox/author/v1)
 
 slug: me
 is_owner: true
@@ -43,23 +43,18 @@ links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/david-collins-owuor/
     label: LinkedIn
-
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7830-5475
     label: ORCID
-
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=SuSyf5oAAAAJ
     label: Google Scholar
-
   - icon: brands/github
     url: https://github.com/DCollinsOwuor
     label: GitHub
-
   - icon: link
     url: https://www.gpap.global/
     label: Global Pathogen Analysis Platform
-
   - icon: link
     url: https://oro.open.ac.uk/75472/
     label: PhD Thesis
