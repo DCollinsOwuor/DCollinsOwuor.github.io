@@ -66,7 +66,7 @@ interests:
 
 education:
   - degree: "PhD Genomic Epidemiology"
-    institution: "The Open University"
+    institution: "The Open University, United Kingdom"
     location: "United Kingdom"
     end: "2021"
     summary: |
@@ -76,12 +76,12 @@ education:
       url: "https://oro.open.ac.uk/75472/"
 
   - degree: "MSc Molecular Genetics and Diagnostics"
-    institution: "University of Nottingham"
+    institution: "University of Nottingham, United Kingdom"
     location: "United Kingdom"
     end: "2012"
 
   - degree: "BSc Biomedical Technology – First Class Honours"
-    institution: "University of Nairobi"
+    institution: "University of Nairobi, Kenya"
     location: "Kenya"
     end: "2010"
 
