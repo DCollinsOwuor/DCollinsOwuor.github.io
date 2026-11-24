@@ -28,16 +28,7 @@ sections:
         size: medium
         shape: circle
 
-  # 2. Professional experience timeline
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      title: "Professional Experience"
-      date_format: "January 2006"
-      is_education_first: false
-
-  # 3. Selected publications
+  # 2. Selected publications
   - block: collection
     id: papers
     content:
@@ -49,23 +40,15 @@ sections:
         featured_only: true
     design:
       view: citation
-      columns: 1
+      columns: 1        
 
-  # 4. Technical skills
-  - block: resume-skills
+  # 3. Professional experience timeline
+  - block: resume-experience
     content:
       username: me
-      title: "Technical Skills"
-
-  # 6. Collaboration and contact
-  - block: markdown
-    id: contact
-    content:
-      title: "Collaboration and Contact"
-      text: |
-        I am interested in collaborations in pathogen genomics, genomic epidemiology, molecular surveillance, bioinformatics, laboratory systems strengthening and public health research.
-
-        Connect with me on [LinkedIn](https://www.linkedin.com/in/david-collins-owuor/) or explore my work on [GitHub](https://github.com/DCollinsOwuor).
     design:
-      columns: "1"
+      title: "Professional Experience"
+      date_format: "January 2006"
+      is_education_first: false
+      
 ---

@@ -21,23 +21,24 @@ status:
 role: "Global Health Programmes | Disease Surveillance Systems | Preparedness & Response | Strategic Partnerships"
 
 bio: |
-  David Collins Owuor, PhD, is a genomic epidemiologist, bioinformatician and global health researcher with over 15 years of experience in infectious disease surveillance, pathogen genomics, molecular epidemiology, public health laboratory systems, outbreak investigation and response, and international health programmes.
+  Dr. Owuor is a genomic epidemiologist and public health
+  researcher with over 15 years of experience in infectious disease
+  surveillance, pathogen genomics, molecular epidemiology, bioinformatics,
+  and public health research.
 
-  His professional experience spans the Kenya Medical Research Institute (KEMRI), KEMRI-Wellcome Trust Research Programme, the US Centers for Disease Control and Prevention (CDC), and the World Health Organization (WHO). He has contributed to national, regional and international public health initiatives, including genomic surveillance, laboratory capacity strengthening, sequencing implementation, outbreak response, and the development of computational approaches for infectious disease analysis.
+  His work focuses on applying genomic technologies, bioinformatics,
+  and data science to strengthen infectious disease surveillance,
+  outbreak investigation, and public health preparedness.
 
-  His research focuses on translating pathogen genomic data into actionable public health intelligence. Key areas include poliovirus and vaccine-derived poliovirus surveillance, influenza virus evolution and transmission, measles whole-genome sequencing, SARS-CoV-2 genomic epidemiology, HIV research, wastewater-based surveillance, phylogenetics, phylodynamics, and bioinformatics.
-
-  He is particularly interested in the application of artificial intelligence, data science and computational methods to strengthen pathogen surveillance, disease preparedness and public health decision-making, especially in Africa.
-
-  David has contributed to peer review for international scientific journals, with 35 recorded peer-review activities across 10 journal groups in his ORCID record.
+  He has extensive experience in molecular surveillance, genomic
+  epidemiology, laboratory systems strengthening, and collaborative
+  research across Kenya and Africa. His interests lie at the intersection
+  of science, technology, and public health, particularly translating
+  pathogen genomic data into actionable public health intelligence.
 
 affiliations:
   - name: Kenya Medical Research Institute (KEMRI), Centre for Virus Research
     url: https://www.kemri.go.ke/
-  - name: KEMRI-Wellcome Trust Research Programme
-    url: https://kemri-wellcome.org/
-  - name: World Health Organization
-    url: https://www.who.int/
 
 links:
   - icon: brands/linkedin
@@ -52,31 +53,16 @@ links:
   - icon: brands/github
     url: https://github.com/DCollinsOwuor
     label: GitHub
-  - icon: link
-    url: https://www.gpap.global/
-    label: Global Pathogen Analysis Platform
-  - icon: link
-    url: https://oro.open.ac.uk/75472/
-    label: PhD Thesis
+ 
 
 interests:
-  - "🧬 Pathogen genomics and genomic epidemiology"
-  - "🌍 Global health and infectious disease surveillance"
-  - "🦠 Poliovirus and vaccine-derived poliovirus surveillance"
-  - "💉 Influenza genomics, evolution and transmission"
-  - "🔬 Measles whole-genome sequencing and phylogeography"
-  - "🧪 SARS-CoV-2 genomic surveillance"
-  - "🧫 HIV genomics and vaccine research"
-  - "💧 Wastewater-based pathogen surveillance"
-  - "🩺 Molecular diagnostics and laboratory systems"
-  - "💻 Bioinformatics and computational biology"
-  - "🤖 Artificial intelligence and data science for public health"
-  - "🌳 Phylogenetics and phylodynamic modelling"
-  - "📊 Statistical modelling and data analytics"
-  - "🚨 Outbreak investigation and response"
   - "🏥 Genomic surveillance capacity strengthening in Africa"
+  - "🧬 Pathogen Genomics and Virus Evolution"
+  - "🌍 Global health and infectious disease surveillance"
+  - "💻 Scalable Bioinformatics Pipelines (Cloud and HPC)"
   - "🤝 Global health partnerships and research capacity building"
   - "📋 Preparedness, response and public health systems strengthening"
+  - "🩺 Data-driven Risk Assessment and Public Health Decision Support" 
 
 education:
   - degree: "PhD Genomic Epidemiology"
@@ -100,134 +86,52 @@ education:
     end: "2010"
 
 experience:
-  - role: "Senior Research Scientist (Non-tenured)"
-    org: "KEMRI Centre for Virus Research"
-    start: "2024-01-01"
-    end: "2025-04-30"
-    summary: |
-      Conducted infectious disease research with emphasis on pathogen genomics, bioinformatics, genomic surveillance, molecular epidemiology and research capacity strengthening.
+  - role: "Technical Lead - (Tier 1 Partner, Kenya Medical Research Institute)"
+    org: "Global Pathogen Analysis Platform (https://www.gpap.global/) - Artificial intelligence Platform"
+    start: "2026-09-01"
+    end: ""
 
-  - role: "Virology and Bioinformatics Consultant"
-    org: "Global Polio Eradication Initiative – WHO Regional Office for Africa"
+  - role: "Senior Research Scientist (Non-tenured Research Track)"
+    org: "Kenya Medical Research Institute (KEMRI) - Centre for Virus Research - Nairobi, Kenya"
+    start: "2026-05-01"
+    end: ""
+  
+   
+  - role: "Virology and Bioinformatics Consultant - Global Polio Eradication Initiative"
+    org: "World Health Organization,  Regional Office for Africa - Brazzaville, Congo"
     start: "2024-05-01"
-    end: "2025-04-30"
-    summary: |
-      Supported poliovirus genomic epidemiology and regional surveillance through bioinformatics workflows, high-performance computing and cloud-based analyses using Python and R. Contributed to surveillance metrics, technical reports, scientific publications and regional bulletins. Supported sequencing expansion, quality assurance, laboratory systems strengthening, training and accreditation activities.
-
-  - role: "Postdoctoral Scientist"
-    org: "KEMRI-Wellcome Trust Research Programme"
+    end: ""
+    
+  - role: "Postdoctoral Scientist - Bioscience Department"
+    org: "KEMRI-Wellcome Trust Research Programme - Kilifi, Kenya"
     start: "2023-01-01"
     end: "2023-12-31"
-    summary: |
-      Contributed to HIV B-cell biology and vaccine research, including bioinformatics analysis of African population sequencing data, clinical trial data platforms, computational pipelines and consortium-based research. Supported research training and capacity development.
-
-  - role: "Postdoctoral Scientist"
-    org: "National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention (CDC)"
+   
+  - role: "Postdoctoral Scientist - National Center for Immunization and Respiratory Diseases"
+    org: "Centers for Disease Control and Prevention (CDC), Georgia, USA"
     start: "2021-03-01"
     end: "2022-09-30"
-    summary: |
-      Conducted next-generation sequencing and genomic epidemiology analyses of SARS-CoV-2 and influenza viruses. Applied phylogenetics, phylodynamics and computational methods using high-performance computing and cloud infrastructure. Contributed to reproducible Snakemake workflows, technical documentation, standard operating procedures, scientific publications and international training.
-
-  - role: "Doctoral Fellow – Genomic Epidemiology"
-    org: "KEMRI-Wellcome Trust Research Programme"
-    start: "2016-10-01"
-    end: "2020-10-31"
-    summary: |
-      Investigated the genomic diversity, evolution and transmission of influenza viruses in Kenya. Developed and applied whole-genome sequencing and bioinformatics workflows, phylogenetic and phylodynamic analyses, and contributed to scientific publications, presentations and training of research staff and students.
-
+   
   - role: "Research Officer – Diagnostics and Laboratory Systems Programme"
-    org: "CDC Kenya"
-    start: "2013-01-01"
+    org: "Centers for Disease Control and Prevention, Kenya Country Office - Nairobi, Kenya"
+    start: "2013-01-06"
     end: "2016-09-30"
-    summary: |
-      Conducted molecular characterization and laboratory investigation of respiratory, enteric, viral haemorrhagic fever and acute febrile illness pathogens. Applied PCR, cell culture and multiplex diagnostic methods. Supported outbreak investigations and public health response in Kenya and East Africa, sequencing and bioinformatics activities, laboratory quality systems and technical training.
-
+   
   - role: "Technical Consultant – West Africa Ebola Response"
-    org: "Global Outbreak Alert and Response Network (GOARN) / World Health Organization"
+    org: "Global Outbreak Alert and Response Network (GOARN) / World Health Organization / Centers for Disease Control"
     start: "2014-10-01"
     end: "2014-11-30"
-    summary: |
-      Contributed to the international public health response to the Ebola outbreak in Liberia through technical support within the WHO/GOARN response framework.
 
-skills:
-  - name: "🧬 Genomic and Molecular Epidemiology"
-    items:
-      - label: "Pathogen genomics"
-        level: 5
-      - label: "Genomic epidemiology"
-        level: 5
-      - label: "Molecular surveillance"
-        level: 5
-      - label: "Phylogenetics and phylogeography"
-        level: 4
-      - label: "Viral evolution and transmission"
-        level: 5
-      - label: "Outbreak investigation"
-        level: 5
+  - role: "Assistant Research Officer – Center for Biotechnology Research and Development"
+    org: "Kenya Medical Research Institute - Nairobi, Kenya"
+    start: "2010-04-01"
+    end: "2011-06-30"
 
-  - name: "💻 Bioinformatics and Computational Biology"
-    items:
-      - label: "Whole-genome sequencing analysis"
-        level: 5
-      - label: "Bioinformatics workflow development"
-        level: 5
-      - label: "Sequence analysis"
-        level: 5
-      - label: "Python and R"
-        level: 4
-      - label: "Phylodynamic modelling"
-        level: 4
-      - label: "High-performance computing and cloud workflows"
-        level: 4
-      - label: "Nextflow and Snakemake"
-        level: 4
+  - role: "Research Intern – Center for Biotechnology Research and Development"
+    org: "Kenya Medical Research Institute - Nairobi, Kenya"
+    start: "2010-05-01"
+    end: "2010-03-30"
 
-  - name: "🤖 Artificial Intelligence and Data Science"
-    items:
-      - label: "AI applications in public health"
-        level: 4
-      - label: "Statistical analysis and modelling"
-        level: 4
-      - label: "Data science and analytics"
-        level: 4
-      - label: "Data visualization"
-        level: 4
-      - label: "Reproducible computational workflows"
-        level: 4
-
-  - name: "🩺 Diagnostics and Laboratory Systems"
-    items:
-      - label: "Molecular diagnostics"
-        level: 5
-      - label: "Next-generation sequencing"
-        level: 5
-      - label: "Laboratory quality assurance"
-        level: 5
-      - label: "Molecular surveillance"
-        level: 5
-      - label: "Laboratory systems strengthening"
-        level: 5
-
-  - name: "🌍 Global Health, Programmes and Leadership"
-    items:
-      - label: "Infectious disease surveillance"
-        level: 5
-      - label: "Preparedness and response"
-        level: 5
-      - label: "Programme coordination"
-        level: 5
-      - label: "Strategic partnerships"
-        level: 5
-      - label: "Stakeholder engagement"
-        level: 5
-      - label: "International collaboration"
-        level: 5
-      - label: "Scientific communication"
-        level: 4
-      - label: "Training and capacity building"
-        level: 5
-      - label: "Humanitarian and community service"
-        level: 4
 
 languages: []
 
