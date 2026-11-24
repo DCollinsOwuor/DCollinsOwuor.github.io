@@ -1,20 +1,16 @@
 
----
-hugoblox/author/v1: ""
+schema: "hugoblox/author/v1"
+
 slug: me
 is_owner: true
-
-# ============================================================
-# PERSONAL INFORMATION
-# ============================================================
 
 name:
   display: David Collins Owuor, PhD
   given: David Collins
   family: Owuor
-  alternate: ''
-  pronunciation: ''
-  pronouns: ''
+  alternate: ""
+  pronunciation: ""
+  pronouns: ""
 
 postnominals:
   - PhD
@@ -25,57 +21,34 @@ status:
 role: "Global Health Programmes | Disease Surveillance Systems | Preparedness & Response | Strategic Partnerships"
 
 bio: |
-  Dr. David Collins Owuor is a strategic global health leader, genomic
-  epidemiologist and bioinformatician with over 15 years of experience in
-  infectious disease surveillance, pathogen genomics, molecular epidemiology,
-  public health laboratory systems, preparedness and response.
+  David Collins Owuor, PhD, is a genomic epidemiologist, bioinformatician and global health researcher with over 15 years of experience in infectious disease surveillance, pathogen genomics, molecular epidemiology, public health laboratory systems, outbreak investigation and response, and international health programmes.
 
-  He has worked with the Kenya Medical Research Institute (KEMRI),
-  KEMRI-Wellcome Trust Research Programme, the United States Centers for
-  Disease Control and Prevention (CDC), and the World Health Organization
-  (WHO), contributing to research, surveillance and public health initiatives
-  across national, regional and international settings.
+  His professional experience spans the Kenya Medical Research Institute (KEMRI), KEMRI-Wellcome Trust Research Programme, the US Centers for Disease Control and Prevention (CDC), and the World Health Organization (WHO). He has contributed to national, regional and international public health initiatives, including genomic surveillance, laboratory capacity strengthening, sequencing implementation, outbreak response, and the development of computational approaches for infectious disease analysis.
 
-  His professional expertise includes leading and supporting complex
-  multi-stakeholder initiatives, genomic surveillance systems, laboratory
-  strengthening, outbreak investigation, programme coordination, stakeholder
-  engagement and strategic partnership development.
+  His research focuses on translating pathogen genomic data into actionable public health intelligence. Key areas include poliovirus and vaccine-derived poliovirus surveillance, influenza virus evolution and transmission, measles whole-genome sequencing, SARS-CoV-2 genomic epidemiology, HIV research, wastewater-based surveillance, phylogenetics, phylodynamics, and bioinformatics.
 
-  Operating at the interface of science, policy and implementation, his work
-  focuses on translating disease surveillance and pathogen genomic data into
-  actionable public health intelligence. He is particularly interested in
-  strengthening public health systems, advancing preparedness and response
-  capabilities, and applying bioinformatics, data science and artificial
-  intelligence to infectious disease surveillance.
+  He is particularly interested in the application of artificial intelligence, data science and computational methods to strengthen pathogen surveillance, disease preparedness and public health decision-making, especially in Africa.
 
-  His research interests include poliovirus and vaccine-derived poliovirus
-  surveillance, influenza and measles genomics, SARS-CoV-2, HIV genomics,
-  wastewater-based pathogen surveillance, phylogenetics and phylodynamic
-  modelling.
+  David has contributed to peer review for international scientific journals, with 35 recorded peer-review activities across 10 journal groups in his ORCID record.
 
-  He contributes to the scientific community through research collaboration,
-  scientific peer review, mentorship and capacity strengthening. His public
-  ORCID record documents 35 peer-review activities across 10 journal groups.
-
-  Beyond his professional work, he has been involved in Rotary International
-  since 2017, contributing to community service, club leadership, district
-  committees, disease prevention, polio eradication advocacy and humanitarian
-  initiatives.
-
-# ============================================================
-# PROFESSIONAL AND SOCIAL LINKS
-# ============================================================
+affiliations:
+  - name: Kenya Medical Research Institute (KEMRI), Centre for Virus Research
+    url: https://www.kemri.go.ke/
+  - name: KEMRI-Wellcome Trust Research Programme
+    url: https://kemri-wellcome.org/
+  - name: World Health Organization
+    url: https://www.who.int/
 
 links:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/david-collins-owuor/
     label: LinkedIn
 
-  - icon: brands/orcid
+  - icon: academicons/orcid
     url: https://orcid.org/0000-0002-7830-5475
     label: ORCID
 
-  - icon: brands/google-scholar
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=SuSyf5oAAAAJ
     label: Google Scholar
 
@@ -83,322 +56,189 @@ links:
     url: https://github.com/DCollinsOwuor
     label: GitHub
 
-# ============================================================
-# RESEARCH INTERESTS
-# ============================================================
+  - icon: link
+    url: https://www.gpap.global/
+    label: Global Pathogen Analysis Platform
+
+  - icon: link
+    url: https://oro.open.ac.uk/75472/
+    label: PhD Thesis
 
 interests:
-  - "🧬 Pathogen Genomics and Genomic Epidemiology"
-  - "🌍 Global Health and Infectious Disease Surveillance"
-  - "🦠 Poliovirus and Vaccine-Derived Poliovirus Surveillance"
-  - "💉 Influenza Genomics, Evolution and Transmission"
-  - "🔬 Measles Whole-Genome Sequencing and Phylogeography"
-  - "🧪 SARS-CoV-2 Genomic Surveillance"
-  - "🧫 HIV Genomics and Vaccine Research"
-  - "💧 Wastewater-Based Pathogen Surveillance"
-  - "🩺 Molecular Diagnostics and Laboratory Systems"
-  - "💻 Bioinformatics and Computational Biology"
-  - "🤖 Artificial Intelligence and Data Science for Public Health"
-  - "🌳 Phylogenetics and Phylodynamic Modelling"
-  - "📊 Statistical Modelling and Data Analytics"
-  - "🚨 Outbreak Investigation and Response"
-  - "🏥 Genomic Surveillance Capacity Strengthening in Africa"
-  - "🤝 Global Health Partnerships and Research Capacity Building"
-  - "📋 Preparedness, Response and Public Health Systems Strengthening"
-
-# ============================================================
-# EDUCATION
-# ============================================================
+  - "🧬 Pathogen genomics and genomic epidemiology"
+  - "🌍 Global health and infectious disease surveillance"
+  - "🦠 Poliovirus and vaccine-derived poliovirus surveillance"
+  - "💉 Influenza genomics, evolution and transmission"
+  - "🔬 Measles whole-genome sequencing and phylogeography"
+  - "🧪 SARS-CoV-2 genomic surveillance"
+  - "🧫 HIV genomics and vaccine research"
+  - "💧 Wastewater-based pathogen surveillance"
+  - "🩺 Molecular diagnostics and laboratory systems"
+  - "💻 Bioinformatics and computational biology"
+  - "🤖 Artificial intelligence and data science for public health"
+  - "🌳 Phylogenetics and phylodynamic modelling"
+  - "📊 Statistical modelling and data analytics"
+  - "🚨 Outbreak investigation and response"
+  - "🏥 Genomic surveillance capacity strengthening in Africa"
+  - "🤝 Global health partnerships and research capacity building"
+  - "📋 Preparedness, response and public health systems strengthening"
 
 education:
-  - degree: PhD in Genomic Epidemiology
-    institution: The Open University
-    location: United Kingdom
-    year: 2021
+  - degree: "PhD Genomic Epidemiology"
+    institution: "The Open University"
+    location: "United Kingdom"
+    end: "2021"
     summary: |
-      Thesis: Sequence Diversity, Evolution and Transmission of Influenza
-      A(H1N1)pdm09 and A(H3N2) Viruses in Kenya, 2009–2018.
-      Research focused on influenza whole-genome sequencing, genomic
-      epidemiology, viral evolution, phylogenetics and transmission dynamics.
+      Thesis: Sequence Diversity, Evolution and Transmission of Influenza A(H1N1)pdm09 and A(H3N2) Viruses in Kenya, 2009–2018.
+    button:
+      text: "View PhD Thesis"
+      url: "https://oro.open.ac.uk/75472/"
 
-  - degree: MSc in Molecular Genetics and Diagnostics
-    institution: University of Nottingham
-    location: United Kingdom
-    year: 2012
-    summary: |
-      Postgraduate training in molecular genetics, molecular diagnostics
-      and biomedical research.
+  - degree: "MSc Molecular Genetics and Diagnostics"
+    institution: "University of Nottingham"
+    location: "United Kingdom"
+    end: "2012"
 
-  - degree: BSc in Biomedical Technology, First Class Honours
-    institution: University of Nairobi
-    location: Kenya
-    year: 2010
-    summary: |
-      Undergraduate training in biomedical technology and laboratory sciences.
-
-# ============================================================
-# PROFESSIONAL EXPERIENCE
-# ============================================================
+  - degree: "BSc Biomedical Technology – First Class Honours"
+    institution: "University of Nairobi"
+    location: "Kenya"
+    end: "2010"
 
 experience:
-
-  - role: Technical Lead – Global Pathogen Analysis Platform (GPAP) and Local Pathogen Analysis Platform (LPAP)
-    organization: KEMRI Center for Virus Research
-    location: Kenya
-    date_start: "2026-09"
-    date_end: ""
+  - role: "Technical Lead – Global Pathogen Analysis Platform (GPAP) and Local Pathogen Analysis Platform (LPAP)"
+    org: "KEMRI Centre for Virus Research"
+    start: "2026-09-01"
     summary: |
-      Leading technical contributions to the development and implementation
-      of the Global Pathogen Analysis Platform and Local Pathogen Analysis
-      Platform.
+      Providing technical leadership for AI-enabled pathogen analysis platforms and computational approaches for public health. Supporting platform development, genomic surveillance, bioinformatics innovation and the translation of pathogen data into public health intelligence.
 
-      Supporting AI-enabled pathogen analysis, bioinformatics capabilities,
-      genomic surveillance tools and integration of computational approaches
-      into public health surveillance systems.
-
-  - role: Senior Research Scientist (Non-tenured)
-    organization: Kenya Medical Research Institute – Center for Virus Research
-    location: Kenya
-    date_start: "2026-05"
-    date_end: ""
+  - role: "Senior Research Scientist (Non-tenured)"
+    org: "KEMRI Centre for Virus Research"
+    start: "2026-05-01"
     summary: |
-      Conducting infectious disease research, pathogen genomics and
-      bioinformatics. Contributing to genomic surveillance, research
-      collaboration, scientific publications and capacity strengthening.
+      Conducting infectious disease research with emphasis on pathogen genomics, bioinformatics, genomic surveillance, molecular epidemiology and research capacity strengthening.
 
-  - role: Virology and Bioinformatics Consultant
-    organization: Global Polio Eradication Initiative – WHO Regional Office for Africa
-    location: Africa
-    date_start: "2024-05"
-    date_end: "2025-12"
+  - role: "Virology and Bioinformatics Consultant"
+    org: "Global Polio Eradication Initiative – WHO Regional Office for Africa"
+    start: "2024-05-01"
+    end: "2025-12-31"
     summary: |
-      Supported poliovirus genomic epidemiology and regional genomic
-      surveillance.
+      Supported poliovirus genomic epidemiology and regional surveillance through bioinformatics workflows, high-performance computing and cloud-based analyses using Python and R. Contributed to surveillance metrics, technical reports, scientific publications and regional bulletins. Supported sequencing expansion, quality assurance, laboratory systems strengthening, training and accreditation activities.
 
-      Developed and implemented high-performance computing and cloud-based
-      bioinformatics workflows; conducted Python and R analyses; prepared
-      surveillance metrics, scientific publications, bulletins and technical
-      reports.
-
-      Supported sequencing expansion, quality assurance, laboratory systems,
-      procurement coordination, technical reporting and regional laboratory
-      training and accreditation activities.
-
-  - role: Postdoctoral Scientist
-    organization: KEMRI-Wellcome Trust Research Programme
-    location: Kilifi, Kenya
-    date_start: "2023-01"
-    date_end: "2023-12"
+  - role: "Postdoctoral Scientist"
+    org: "KEMRI-Wellcome Trust Research Programme"
+    start: "2023-01-01"
+    end: "2023-12-31"
     summary: |
-      Conducted research in HIV B-cell biology and vaccine-related studies.
+      Contributed to HIV B-cell biology and vaccine research, including bioinformatics analysis of African population sequencing data, clinical trial data platforms, computational pipelines and consortium-based research. Supported research training and capacity development.
 
-      Undertook bioinformatics analyses of African population sequencing
-      datasets, supported clinical trial data platforms, developed analytical
-      workflows and contributed to consortium research and training.
-
-  - role: Postdoctoral Scientist
-    organization: National Center for Immunization and Respiratory Diseases – CDC
-    location: Atlanta, Georgia, United States
-    date_start: "2021-03"
-    date_end: "2022-09"
+  - role: "Postdoctoral Scientist"
+    org: "National Center for Immunization and Respiratory Diseases, Centers for Disease Control and Prevention (CDC)"
+    start: "2021-03-01"
+    end: "2022-09-30"
     summary: |
-      Conducted next-generation sequencing laboratory and bioinformatics
-      analyses of SARS-CoV-2 and influenza viruses.
+      Conducted next-generation sequencing and genomic epidemiology analyses of SARS-CoV-2 and influenza viruses. Applied phylogenetics, phylodynamics and computational methods using high-performance computing and cloud infrastructure. Contributed to reproducible Snakemake workflows, technical documentation, standard operating procedures, scientific publications and international training.
 
-      Applied genomic epidemiology, phylogenetics and phylodynamics.
-      Developed high-performance computing and cloud workflows, including
-      Snakemake pipelines, and contributed to international training,
-      standard operating procedures and scientific publications.
-
-  - role: Doctoral Fellow – Genomic Epidemiology
-    organization: KEMRI-Wellcome Trust Research Programme
-    location: Kilifi, Kenya
-    date_start: "2016-10"
-    date_end: "2020-10"
+  - role: "Doctoral Fellow – Genomic Epidemiology"
+    org: "KEMRI-Wellcome Trust Research Programme"
+    start: "2016-10-01"
+    end: "2020-10-31"
     summary: |
-      Investigated the genomic epidemiology, evolution and transmission
-      of influenza viruses in Kenya.
+      Investigated the genomic diversity, evolution and transmission of influenza viruses in Kenya. Developed and applied whole-genome sequencing and bioinformatics workflows, phylogenetic and phylodynamic analyses, and contributed to scientific publications, presentations and training of research staff and students.
 
-      Conducted whole-genome sequencing analyses, bioinformatics,
-      phylogenetics and phylodynamic modelling. Contributed to scientific
-      publications, presentations, student training and research capacity
-      strengthening.
-
-  - role: Research Officer
-    organization: CDC Kenya – Diagnostics and Laboratory Systems Programme
-    location: Kenya
-    date_start: "2013-01"
-    date_end: "2016-09"
+  - role: "Research Officer – Diagnostics and Laboratory Systems Programme"
+    org: "CDC Kenya"
+    start: "2013-01-01"
+    end: "2016-09-30"
     summary: |
-      Supported molecular characterization and surveillance of respiratory,
-      enteric, viral haemorrhagic fever and acute febrile illness pathogens.
+      Conducted molecular characterization and laboratory investigation of respiratory, enteric, viral haemorrhagic fever and acute febrile illness pathogens. Applied PCR, cell culture and multiplex diagnostic methods. Supported outbreak investigations and public health response in Kenya and East Africa, sequencing and bioinformatics activities, laboratory quality systems and technical training.
 
-      Applied PCR, cell culture and multiplex diagnostic methods; supported
-      outbreak investigations in Kenya and East Africa; contributed to
-      sequencing, bioinformatics and laboratory training.
-
-  - role: Technical Consultant – West Africa Ebola Response
-    organization: Global Outbreak Alert and Response Network (GOARN), WHO
-    location: Liberia, West Africa
-    date_start: "2014-10"
-    date_end: "2014-11"
+  - role: "Technical Consultant – West Africa Ebola Response"
+    org: "Global Outbreak Alert and Response Network (GOARN) / World Health Organization"
+    start: "2014-10-01"
+    end: "2014-11-30"
     summary: |
-      Contributed to the international Ebola response through laboratory
-      and public health support in West Africa.
-
-# ============================================================
-# VOLUNTEERING AND COMMUNITY SERVICE – ROTARY INTERNATIONAL
-# ============================================================
-
-  - role: Programs, Partnerships and Resource Mobilization Committee; Lead – Notable Calendar Days Subcommittee; Member – End Polio Now Task Force; Member – Disease Prevention & Treatment Subcommittee
-    organization: Rotary International – Rotary District 9216
-    location: Kenya, Ethiopia, Eritrea and South Sudan
-    date_start: "2026-07"
-    date_end: ""
-    summary: |
-      District 9216 committee appointments for the 2026–2027 Rotary year.
-
-      • Lead – District 9216 Notable Calendar Days Subcommittee.
-      • Member – District 9216 End Polio Now Task Force.
-      • Member – District 9216 Disease Prevention & Treatment Subcommittee.
-
-      Contributing to programmes, partnerships, resource mobilization,
-      disease prevention, polio eradication advocacy and humanitarian relief.
-
-  - role: Community Service Projects Committee; Lead – Notable Calendar Days Committee
-    organization: Rotary International – Rotary District 9212
-    location: Kenya, Ethiopia, Eritrea and South Sudan
-    date_start: "2025-07"
-    date_end: "2026-06"
-    summary: |
-      District 9212 committee service during the 2025–2026 Rotary year.
-
-      • Lead – District 9212 Notable Calendar Days Committee.
-
-      Contributed to district community service projects, humanitarian
-      activities and programmes supporting community development.
-
-  - role: Club Member; Director – Speaker Secretary and Advisory Committee; Member – Finance Committee; Member – Fundraising Committee; Member – Community Service Projects Committee
-    organization: Rotary International – Rotary Club of Embakasi
-    location: Kenya
-    date_start: "2025-04"
-    date_end: ""
-    summary: |
-      Club membership and committee service.
-
-      • Director – Speaker Secretary and Advisory Committee (2026–2027).
-      • Member – Finance Committee (2026–2027).
-      • Member – Fundraising Committee (2025–2026; 2026–2027).
-      • Member – Community Service Projects Committee (2025–2026; 2026–2027).
-
-      Supporting club administration, speaker programmes, financial
-      activities, fundraising and community service projects.
-
-  - role: Club President
-    organization: Rotary International – Rotary Club of Kilifi
-    location: Kilifi, Kenya
-    date_start: "2023-07"
-    date_end: "2024-06"
-    summary: |
-      Served as Rotary Club President for the 2023–2024 Rotary year.
-
-      Provided club leadership and supported the implementation of club
-      activities, community service initiatives and Rotary programmes.
-
-# ============================================================
-# TECHNICAL AND PROFESSIONAL SKILLS
-# ============================================================
+      Contributed to the international public health response to the Ebola outbreak in Liberia through technical support within the WHO/GOARN response framework.
 
 skills:
-
   - name: "🧬 Genomic and Molecular Epidemiology"
     items:
-      - label: Pathogen genomics
+      - label: "Pathogen genomics"
         level: 5
-      - label: Genomic epidemiology
+      - label: "Genomic epidemiology"
         level: 5
-      - label: Molecular surveillance
+      - label: "Molecular surveillance"
         level: 5
-      - label: Phylogenetics and phylogeography
+      - label: "Phylogenetics and phylogeography"
         level: 4
-      - label: Viral evolution and transmission
+      - label: "Viral evolution and transmission"
         level: 5
-      - label: Outbreak investigation
+      - label: "Outbreak investigation"
         level: 5
 
   - name: "💻 Bioinformatics and Computational Biology"
     items:
-      - label: Whole-genome sequencing analysis
+      - label: "Whole-genome sequencing analysis"
         level: 5
-      - label: Bioinformatics workflows
+      - label: "Bioinformatics workflow development"
         level: 5
-      - label: Sequence analysis
+      - label: "Sequence analysis"
         level: 5
-      - label: Python and R
+      - label: "Python and R"
         level: 4
-      - label: Phylodynamic modelling
+      - label: "Phylodynamic modelling"
         level: 4
-      - label: High-performance computing and cloud workflows
+      - label: "High-performance computing and cloud workflows"
         level: 4
-      - label: Nextflow and Snakemake
+      - label: "Nextflow and Snakemake"
         level: 4
 
   - name: "🤖 Artificial Intelligence and Data Science"
     items:
-      - label: AI applications in public health
+      - label: "AI applications in public health"
         level: 4
-      - label: Statistical analysis and modelling
+      - label: "Statistical analysis and modelling"
         level: 4
-      - label: Data science and analytics
+      - label: "Data science and analytics"
         level: 4
-      - label: Data visualization
+      - label: "Data visualization"
         level: 4
-      - label: Reproducible analytical workflows
+      - label: "Reproducible computational workflows"
         level: 4
 
   - name: "🩺 Diagnostics and Laboratory Systems"
     items:
-      - label: Molecular diagnostics
+      - label: "Molecular diagnostics"
         level: 5
-      - label: Next-generation sequencing
+      - label: "Next-generation sequencing"
         level: 5
-      - label: Laboratory quality assurance
+      - label: "Laboratory quality assurance"
         level: 5
-      - label: Molecular surveillance
+      - label: "Molecular surveillance"
         level: 5
-      - label: Laboratory systems strengthening
+      - label: "Laboratory systems strengthening"
         level: 5
 
   - name: "🌍 Global Health, Programmes and Leadership"
     items:
-      - label: Infectious disease surveillance
+      - label: "Infectious disease surveillance"
         level: 5
-      - label: Preparedness and response
+      - label: "Preparedness and response"
         level: 5
-      - label: Programme coordination
+      - label: "Programme coordination"
         level: 5
-      - label: Strategic partnerships
+      - label: "Strategic partnerships"
         level: 5
-      - label: Stakeholder engagement
+      - label: "Stakeholder engagement"
         level: 5
-      - label: International research collaboration
+      - label: "International collaboration"
         level: 5
-      - label: Scientific communication
+      - label: "Scientific communication"
         level: 4
-      - label: Training and capacity building
+      - label: "Training and capacity building"
         level: 5
-      - label: Humanitarian and community service
+      - label: "Humanitarian and community service"
         level: 4
-
-# ============================================================
-# LANGUAGES
-# ============================================================
 
 languages: []
 
-# ============================================================
-# AWARDS AND RECOGNITION
-# ============================================================
-
 awards: []
----
