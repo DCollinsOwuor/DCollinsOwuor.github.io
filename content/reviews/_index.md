@@ -6,9 +6,7 @@ date: "2026-11-25"
 
 ## 📝 Scientific Peer Review
 
-I contribute to the scientific community through peer review of research manuscripts for international, peer-reviewed journals. My reviewing activities reflect my engagement with scientific quality assurance, research integrity and the advancement of knowledge in pathogen genomics, infectious diseases, molecular epidemiology and public health.
-
-My peer-review record includes **37 documented review activities across 10 international journals**, as recorded in my public ORCID profile.
+Peer-review across 10 international journals
 
 ## 📊 Peer Review Contributions
 
@@ -16,7 +14,7 @@ My peer-review record includes **37 documented review activities across 10 inter
 - **10** international scientific journals
 - Research areas spanning genomics, infectious diseases, public health and virology
 
-## 📚 Journals Reviewed
+## 📚 Journals
 
 | Scientific journal | Review activities |
 |---|---:|
@@ -34,8 +32,6 @@ My peer-review record includes **37 documented review activities across 10 inter
 
 ## 🔬 Areas of Scientific Reviewing
 
-My peer-review contributions are associated with journals covering several areas of biomedical and public health research, including:
-
 - 🧬 Pathogen genomics and molecular evolution
 - 🦠 Virology and infectious disease research
 - 🌍 Infectious disease epidemiology and public health
@@ -44,6 +40,6 @@ My peer-review contributions are associated with journals covering several areas
 
 ## 🌐 Reviewer Profile
 
-For the full record of documented peer-review activities, visit my ORCID profile.
+Peer-review activities available through ORCID profile
 
 [View Peer Review Activities on ORCID](https://orcid.org/0000-0002-7830-5475)
