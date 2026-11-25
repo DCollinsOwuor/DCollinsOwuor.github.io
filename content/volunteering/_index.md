@@ -6,7 +6,7 @@ date: "2026-11-25"
 
 ## 🌍 Rotary Leadership & Community Service
 
-## 🏛️ Rotary District Leadership
+## 🏛️ Rotary District Service
 
 ### Rotary District 9216 – Programs, Partnerships and Resource Mobilization Committee
 **Rotary International | July 2026–Present**
@@ -26,7 +26,7 @@ Contributed to district community service initiatives, supporting programme coor
 **Committee appointment (2025–2026):**
 - 📅 Lead – District 9212 Notable Calendar Days Committee.
 
-## 🤝 Rotary Club Leadership and Service
+## 🤝 Rotary Club Service
 
 ### Rotary Club of Embakasi, Kenya – Member
 **Rotary International | April 2025–Present**
@@ -60,5 +60,3 @@ Previously served as a member of the Rotary Club of Kilifi, contributing to Rota
 ## 🌐 Rotary International
 
 Rotary provides a platform for professionals and community leaders to work together to address pressing humanitarian and development challenges through service, collaboration and sustainable action.
-
-**Service Above Self.**
