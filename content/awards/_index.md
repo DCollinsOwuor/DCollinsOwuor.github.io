@@ -1,6 +1,6 @@
 
 ---
-title: "Grants and Awards"
+title: ## "Grants and Awards"
 date: "2026-11-24"
 ---
 
