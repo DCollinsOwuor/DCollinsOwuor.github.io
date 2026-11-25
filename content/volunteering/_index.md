@@ -6,7 +6,7 @@ date: "2026-11-25"
 
 ## 🌍 Rotary Community Service
 
-## 🏛️ Rotary District Service
+## 🌍 Rotary District Leadership & Service
 
 ### Rotary District 9216 – Programs, Partnerships and Resource Mobilization Committee
 **Rotary International | July 2026–Present**
@@ -14,7 +14,7 @@ date: "2026-11-25"
 Contributing to district-level programmes, partnerships and resource mobilization across Kenya, Ethiopia, Eritrea and South Sudan, with responsibilities in humanitarian and community service initiatives.
 
 **Committee appointments (2026–2027):**
-- 📅 Lead – District 9216 Notable Calendar Days Subcommittee.
+- 🏛️ Lead – District 9216 Notable Calendar Days Subcommittee.
 - 🦠 Member – District 9216 End Polio Now Task Force.
 - ⚕️ Member – District 9216 Disease Prevention & Treatment Subcommittee.
 
@@ -24,7 +24,7 @@ Contributing to district-level programmes, partnerships and resource mobilizatio
 Contributed to district community service initiatives, supporting programme coordination and service activities under the Disaster and Humanitarian Relief area.
 
 **Committee appointment (2025–2026):**
-- 📅 Lead – District 9212 Notable Calendar Days Committee.
+- 🏛️ Lead – District 9212 Notable Calendar Days Committee.
 
 ## 🤝 Rotary Club Service
 
