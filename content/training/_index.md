@@ -36,29 +36,7 @@ Online conference covering virus genomics and evolutionary research.
 
 Antananarivo, Madagascar.
 
-### 🧪 Laboratory Quality Management and Diagnostics
 
-### Laboratory Quality Management System: ISO 15189:2022 Implementers' Training
-**FHI 360 – Strengthening Infectious Disease Detection Systems & KEMRI**
-
-📅 3–7 August 2026
-
-Training in implementation of laboratory quality management systems
-based on the ISO 15189:2022 standard.
-
-### Laboratory Quality Management System Certificate Programme
-**Clinical and Laboratory Standards Institute (CLSI)**
-
-📅 May–August 2022
-
-Certificate programme in laboratory quality management systems.
-
-### Molecular Approaches to Clinical Microbiology in Africa
-**Wellcome Connecting Science Courses and Conferences, United Kingdom**
-
-📅 September 2015
-
-Course hosted at KEMRI, Nairobi, Kenya.
 
 ### 🧬 Bioinformatics and Genomic Epidemiology
 
@@ -90,3 +68,27 @@ New Mexico, United States.
 📅 June 2015
 
 New Mexico, United States.
+
+
+
+### 🧪 Laboratory Quality Management and Diagnostics
+
+### Laboratory Quality Management System: ISO 15189:2022 Implementers' Training
+**FHI 360 – Strengthening Infectious Disease Detection Systems & KEMRI**
+
+📅 3–7 August 2026
+
+Training in implementation of laboratory quality management systems
+based on the ISO 15189:2022 standard.
+
+### Laboratory Quality Management System Certificate Programme
+**Clinical and Laboratory Standards Institute (CLSI)**
+
+📅 May–August 2022
+
+Certificate programme in laboratory quality management systems.
+
+### Molecular Approaches to Clinical Microbiology in Africa
+**Wellcome Connecting Science Courses and Conferences, United Kingdom**
+
+📅 September 2015 | KEMRI, Nairobi, Kenya.
