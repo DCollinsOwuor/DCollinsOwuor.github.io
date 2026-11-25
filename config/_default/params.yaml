@@ -19,10 +19,9 @@ hugoblox:
     # Schema.org type for structured data
     type: person # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Genomic Epidemiology | Bioinformatics | Public Health"
+    tagline: "Global Health Programmes | Disease Surveillance Systems | Preparedness & Response | Strategic Partnerships"
     # Site meta description for search engines and social sharing
-    description: "Dr David Collins Owuor is a genomic epidemiologist and bioinformatician working in pathogen genomics, molecular surveillance, infectious disease research and public health."
-    # Social accounts (used for meta tags like Twitter Cards)
+    description: "Dr Owuor is interested in: global health programmes; disease surveillance systems; preparedness and response; and strategic partnerships"
     social:
       twitter: "" # Add a verified X handle if applicable
 
