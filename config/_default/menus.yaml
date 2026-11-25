@@ -30,7 +30,3 @@ main:
   - name: "Awards & Grants"
     url: "/awards/"
     weight: 75
-
-  - name: "Contact"
-    url: "/#contact"
-    weight: 80
