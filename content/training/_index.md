@@ -4,69 +4,70 @@ title: ""
 date: "2026-11-24"
 ---
 
-## 🎓 Professional Training and Scientific Conferences
+## 🎓 Training & Conferences
 
-### 🌍 Scientific Conferences
+## 🌍 Scientific Conferences
 
-### African Network for Influenza Surveillance and Epidemiology (ANISE) Mini-School and 8th ANISE Conference 2026 
-**International Society for Respiratory Viruses (ISRV)**
+### Virus Genomics, Evolution & Bioinformatics Conference
+**🇬🇧 Wellcome Sanger Institute Scientific Training and Events**
+
+📅 11-13 November 2021
+
+### African Network for Influenza Surveillance and Epidemiology (ANISE) Mini-School and 8th Conference 
+**🇺🇸 International Society for Respiratory Viruses (ISRV)**
 
 📅 23–25 September 2026 | Dakar, Senegal
 
-ANISE Mini-School and 8th Conference 2026.
-
 ### Options XIII for the Control of Influenza
-**International Society for Respiratory Viruses (ISRV)**
+**🇺🇸 International Society for Respiratory Viruses (ISRV)**
 
 📅 30 August – 2 September 2026 | Washington, USA
 
-### Virus Genomics and Evolution Online Conference
-**Wellcome Connecting Science Courses and Conferences, United Kingdom**
+### Virus Genomics, Evolution & Bioinformatics Conference
+**🇬🇧 Wellcome Sanger Institute Scientific Training and Events**
 
-📅 September 2021 | Online conference in virus genomics and evolution.
+📅 September 2021
 
-### 7th ANISE Conference
-**African Network for Influenza Surveillance and Epidemiology (ANISE)**
+### African Network for Influenza Surveillance and Epidemiology (ANISE) 7th Conference
+**International Society for Respiratory Viruses (ISRV)**
 
-📅 March 2018 | Antananarivo, Madagascar.
+📅 March 2018 | Antananarivo, Madagascar
 
-
-### 🧬 Bioinformatics and Genomic Epidemiology
+## 🧬 Bioinformatics & Genomic Epidemiology
 
 ### 24th International Bioinformatics Workshop
 **Virus Evolution and Molecular Epidemiology (VEME) Workshop**
 
-📅 August 2019
-
-Advanced bioinformatics course at the University of Hong Kong, Hong Kong.
+📅 August 2019 | University of Hong Kong, Hong Kong
 
 ### Advanced Bioinformatics Training
 **Eastern Africa Network for Bioinformatics Training (EANBiT) & Wellcome Connecting Science Courses**
 
-📅 June–July 2018 | International Center of Insect Physiology and Ecology (ICIPE), Nairobi, Kenya.
+📅 June–July 2018 | ICIPE, Nairobi, Kenya
 
 ### Advanced Bioinformatics Training
 **Los Alamos National Laboratory (LANL)**
 
-📅 June 2016 | New Mexico, United States.
+📅 June 2016 | New Mexico, United States
+
+### Molecular Approaches to Clinical Microbiology in Africa
+**🇬🇧 Wellcome Sanger Institute Scientific Training and Events**
+
+📅 September 2015 
 
 ### Next-Generation Sequencing and Basic Bioinformatics Training
 **Los Alamos National Laboratory (LANL)**
 
-📅 June 2015 | New Mexico, United States.
+📅 June 2015 | New Mexico, United States
 
-### 🧪 Laboratory Quality Management System (QMS)
+## 🧪 Laboratory Quality Management System (QMS)
 
-### Laboratory Quality Management System: ISO 15189:2022 Implementers' Training
-**FHI 360 – Strengthening Infectious Disease Detection Systems & KEMRI**
+### Laboratory QMS: ISO 15189:2022 Implementers' Training
+**FHI 360 – Strengthening Infectious Disease Detection Systems (STRIDES)**
 
-📅 3–7 August 2026
+📅 3–7 August 2026 | Implementation of ISO 15189:2022 lab QMS 
 
-Implementation of laboratory QMS based on the ISO 15189:2022 standard.
-
-### Laboratory Quality Management System Certificate Programme
+### Laboratory QMS Certificate Programme
 **Clinical and Laboratory Standards Institute (CLSI)**
 
-📅 May–August 2022
-
-Certificate in laboratory QMS.
+📅 May–August 2022 | Certificate in lab QMS
