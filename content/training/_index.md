@@ -9,8 +9,9 @@ date: "2026-11-24"
 ### 🌍 Scientific Conferences
 
 ### African Network for Influenza Surveillance and Epidemiology (ANISE) Mini-School and 8th ANISE Conference 2026 
-📅 23–25 September 2026
 **International Society for Respiratory Viruses (ISRV) &  ANISE)**
+
+📅 23–25 September 2026 | Dakar, Senegal
 
 ANISE Mini-School and 8th Conference 2026.
 
