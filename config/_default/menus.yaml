@@ -26,3 +26,7 @@ main:
   - name: "Grants & Awards"
     url: "/awards/"
     weight: 70
+
+  - name: "Volunteering"
+    url: "/volunteering/"
+    weight: 80
