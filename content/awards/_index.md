@@ -4,7 +4,7 @@ title: "Achievements and Awards"
 date: "2026-11-24"
 ---
 
-### 🏆 Achievements and Awards
+### 🏆 Grants and Awards
 
 ### 🇺🇸 CDC Research Fellowship
 **Centers for Disease Control and Prevention (CDC), United States**
@@ -29,23 +29,18 @@ Kenya.
 ### 🇺🇸 Defense Threat Reduction Agency (DTRA) Travel Awards
 **United States Defense Threat Reduction Agency, United States**
 📅 May 2015 and May 2016
-
 Two travel awards supporting participation in advanced genomics
 and bioinformatics training at Los Alamos National Laboratory
 (LANL), New Mexico, United States.
 
 ### 🇬🇧 Commonwealth Shared Scholarship
 **Commonwealth Shared Scholarship Scheme, United Kingdom**
-
 📅 September 2011
-
 Full scholarship to pursue an MSc in Molecular Genetics and
 Diagnostics at the University of Nottingham, United Kingdom.
 
 ### 🇰🇪 Compassion International Scholarship
 **Compassion International**
-
 📅 October 2006
-
 Full scholarship supporting undergraduate studies in Biomedical
 Technology at the University of Nairobi, Kenya.
