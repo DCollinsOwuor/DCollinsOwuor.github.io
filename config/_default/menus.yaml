@@ -3,30 +3,26 @@ main:
     url: "/#about"
     weight: 10
 
-  - name: "Research"
-    url: "/research"
-    weight: 20
-
   - name: "Publications"
     url: "/#papers"
-    weight: 30
+    weight: 20
 
   - name: "Experience"
     url: "/#experience"
-    weight: 40
+    weight: 30
 
   - name: "Education"
     url: "/#education"
-    weight: 50
+    weight: 40
 
   - name: "Training & Conferences"
     url: "/training/"
-    weight: 60
+    weight: 50
 
   - name: "Scientific Reviews"
     url: "/review/"
-    weight: 70
+    weight: 60
 
   - name: "Awards & Grants"
     url: "/awards/"
-    weight: 75
+    weight: 70
