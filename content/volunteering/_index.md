@@ -4,7 +4,7 @@ title: ""
 date: "2026-11-25"
 ---
 
-## 🌍 Rotary Leadership & Community Service
+## 🌍 Rotary Community Service
 
 ## 🏛️ Rotary District Service
 
