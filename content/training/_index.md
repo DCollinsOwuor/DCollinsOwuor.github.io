@@ -1,15 +1,10 @@
 
 ---
-title: "Trainings and Conferences"
+title: ""
 date: "2026-11-24"
 ---
 
 ### 🎓 Professional Training and Scientific Conferences
-
-
-#### 🦠 Virology, Influenza and Pathogen Genomics
-
-
 
 #### ANISE Mini-School and 8th Conference 2026 
 📅 23–25 September 2026
