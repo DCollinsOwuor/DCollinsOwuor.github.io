@@ -22,7 +22,7 @@ Center for Immunization and Respiratory Diseases, CDC, United States.
 Wellcome Trust DELTAS fellowship supporting research and professional
 development at the Centers for Disease Control and Prevention, United States.
 
-### 🇬🇧 DELTAS Doctoral Research Studentship
+### 🇬🇧 DELTAS Doctoral Research Fellowship
 **Initiative to Develop African Research Leaders, United Kingdom**
 
 📅 September 2016
@@ -49,7 +49,7 @@ and bioinformatics training at Los Alamos National Laboratory
 Full scholarship to pursue an MSc in Molecular Genetics and
 Diagnostics at the University of Nottingham, United Kingdom.
 
-### 🇰🇪 Compassion International Scholarship
+### 🇺🇸 Compassion International Scholarship
 **Compassion International**
 
 📅 October 2006
