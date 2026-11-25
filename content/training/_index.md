@@ -6,11 +6,12 @@ date: "2026-11-24"
 
 ## 🎓 Professional Training and Scientific Conferences
 
-### ANISE Mini-School and 8th Conference 2026 
+### ANISE Mini-School and 8th ANISE Conference 2026 
 📅 23–25 September 2026
 **International Society for Respiratory Viruses (ISRV) & African Network for Influenza Surveillance and Epidemiology (ANISE)**
 
 ANISE Mini-School and 8th Conference 2026.
+
 ### Options XIII for the Control of Influenza
 **International Society for Respiratory Viruses (ISRV)**
 
@@ -53,27 +54,36 @@ Certificate programme in laboratory quality management systems.
 **Wellcome Connecting Science Courses and Conferences, United Kingdom**
 
 📅 September 2015
+
 Course hosted at KEMRI, Nairobi, Kenya.
 
 ### 🧬 Bioinformatics and Genomic Epidemiology
 
 ### 24th International Bioinformatics Workshop – VEME
 **Virus Evolution and Molecular Epidemiology (VEME) Workshop**
+
 📅 August 2019
+
 Advanced bioinformatics course at the University of Hong Kong,
 Hong Kong.
 
 ### Advanced Bioinformatics Training
 **Eastern Africa Network for Bioinformatics Training (EANBiT) & Wellcome Connecting Science Courses**
+
 📅 June–July 2018
-International Center of Insect Physiology and Ecology (ICIPE), Nairobi, Kenya.
+Int
+ernational Center of Insect Physiology and Ecology (ICIPE), Nairobi, Kenya.
 
 ### Advanced Bioinformatics Training
 **Los Alamos National Laboratory (LANL)**
+
 📅 June 2016
+
 New Mexico, United States.
 
 ### Next-Generation Sequencing and Basic Bioinformatics Training
 **Los Alamos National Laboratory (LANL)**
+
 📅 June 2015
+
 New Mexico, United States.
