@@ -23,6 +23,6 @@ main:
     url: "/review/"
     weight: 60
 
-  - name: "Awards & Grants"
+  - name: "Grants & Awards"
     url: "/awards/"
     weight: 70
