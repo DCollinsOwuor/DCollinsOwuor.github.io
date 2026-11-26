@@ -6,8 +6,8 @@ date: "2026-11-24"
 
 ## 🌐 Professional Experience
 
-### 🧬 Global Pathogen Analysis Platform (GPAP)
-Technical Lead – Tier 1 Partner, Kenya Medical Research Institute (KEMRI)
+### 🧬 Global Pathogen Analysis Platform
+Technical Lead – Tier 1 Partner, Kenya Medical Research Institute
 
 📅 September 2026 – Present
 
@@ -18,7 +18,7 @@ Senior Research Scientist, Centre for Virus Research (Non-tenure Research Track)
 
 📅 May 2026 – Present
 
-### 🌍 World Health Organization - Regional Office for Africa (WHO AFRO)
+### 🌍 World Health Organization - Regional Office for Africa
 Virology and Bioinformatics Consultant – Global Polio Eradication Initiative,  Brazzaville, Republic of the Congo
 
 📅 May 2024 – Present
@@ -28,13 +28,13 @@ Postdoctoral Scientist – Bioscience Department, Kilifi, Kenya
 
 📅 January 2023 – December 2023
 
-### 🦠 Centers for Disease Control and Prevention 
+### 🦠 Centers for Disease Control and Prevention - Headquarters 
 Postdoctoral Scientist – National Center for Immunization and Respiratory Diseases, Georgia, USA
 
 📅 March 2021 – September 2022
 
-### 🧫 Centers for Disease Control and Prevention 
-Research Officer – Diagnostics and Laboratory Systems Programme, Kenya Country Office, Nairobi, Kenya
+### 🧫 Centers for Disease Control and Prevention - Kenya Country Office 
+Research Officer – Diagnostics and Laboratory Systems Programme, Nairobi, Kenya
 
 📅 January 2013 – September 2016
 
