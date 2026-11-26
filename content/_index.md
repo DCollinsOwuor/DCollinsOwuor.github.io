@@ -13,7 +13,7 @@ sections:
       text: ""
       button:
         url: uploads/resume.pdf
-        text: Download CV
+        text: 
       headings:
         about: Professional Summary
         education: Education
@@ -33,22 +33,16 @@ sections:
     id: papers
     content:
       title: "Recent Publications"
-      text: "Peer-reviewed research and scientific contributions."
+      text: |
+        [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--7830--5475-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-7830-5475)
+
+        [View my ORCID profile](https://orcid.org/0000-0002-7830-5475)
       filters:
         folders:
           - publication
         featured_only: true
     design:
       view: citation
-      columns: 1        
-
-  # 3. Professional experience timeline
-  - block: resume-experience
-    content:
-      username: me
-    design:
-      title: "Professional Experience"
-      date_format: "January 2006"
-      is_education_first: false
+      columns: 1
       
 ---

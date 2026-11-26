@@ -21,19 +21,15 @@ status:
 role: "Global Health Programmes | Disease Surveillance Systems | Preparedness & Response | Strategic Partnerships"
 
 bio: |
-  Dr. Owuor is a genomic epidemiologist and public health
-  researcher with over 15 years of experience in infectious disease
-  surveillance, pathogen genomics, molecular epidemiology, bioinformatics,
+  Dr. Owuor is a genomic epidemiologist and public health researcher with 
+  over 15 years of experience in infectious disease surveillance,
+  pathogen genomics, molecular epidemiology, bioinformatics,
   and public health research.
-
-  His work focuses on applying genomic technologies, bioinformatics,
-  and data science to strengthen infectious disease surveillance,
-  outbreak investigation, and public health preparedness.
 
   He has extensive experience in molecular surveillance, genomic
   epidemiology, laboratory systems strengthening, and collaborative
   research across Kenya and Africa. His interests lie at the intersection
-  of science, technology, and public health, particularly translating
+  of science, technology, and public health, particularly in translating
   pathogen genomic data into actionable public health intelligence.
 
 affiliations:
@@ -54,14 +50,13 @@ links:
     url: https://github.com/DCollinsOwuor
     label: GitHub
  
-
 interests:
   - "🏥 Genomic surveillance capacity strengthening in Africa"
   - "🧬 Pathogen genomics and virus evolution"
   - "🌍 Global health and infectious disease surveillance"
   - "💻 Scalable bioinformatics pipelines (Cloud and HPC)"
-  - "🤝 Global health partnerships and research capacity building"
   - "📋 Preparedness, response and public health systems strengthening"
+  - "🤝 Global health partnerships and research capacity building"
   - "🩺 Data-driven risk assessment and public health decision support" 
 
 education:
