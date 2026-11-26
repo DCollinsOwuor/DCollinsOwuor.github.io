@@ -37,10 +37,10 @@ Contributed to district community service initiatives, supporting programme coor
 Active participation in club leadership, administration, financial stewardship, partnerships, fundraising and community service.
 
 **Club appointments and committee responsibilities:**
-- 🎙️ Director – Speaker Secretary and Advisory Committee (2026–2027).
-- 📊 Member – Finance Committee (2026–2027).
-- 💰 Member – Fundraising Committee (2025–2026; 2026–2027).
-- 👥 Member – Community Service Projects Committee (2025–2026; 2026–2027).
+- 🎙️ Director – Speaker Secretary and Advisory Committee (2026–2027)
+- 📊 Member – Finance Committee (2026–2027)
+- 💰 Member – Fundraising Committee (2025–2026; 2026–2027)
+- 👥 Member – Community Service Projects Committee (2025–2026; 2026–2027)
 
 ### Rotary Club of Kilifi, Kenya – President
 **Rotary International | July 2023–June 2024**
@@ -52,4 +52,4 @@ Rotary Club President for Rotary year 2023–24, providing leadership, coordinat
 
 ## 🌐 Rotary International
 
-Rotary provides a platform for professionals and community leaders to work together to address pressing humanitarian and development challenges through service, collaboration, partnerships and sustainable action.
+Rotary provides a platform for professionals and community leaders to work together to address pressing humanitarian and development challenges through service, collaboration, partnerships and sustainable action

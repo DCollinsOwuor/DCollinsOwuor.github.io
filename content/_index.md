@@ -44,21 +44,27 @@ sections:
     design:
       view: citation
       columns: 1
-
- # 3. Selected research projects
+  
+  # 3. Selected research projects
   - block: markdown
     id: github-projects
     content:
-      title: "💻 Selected Research Projects"
+      title: "🥼 Featured Research Projects 🔬"
       text: |
-        Explore selected projects in genomic epidemiology and bioinformatics.
+        [![GitHub](https://img.shields.io/badge/GitHub-Explore%20all%20projects-181717?logo=github&logoColor=white)](https://github.com/DCollinsOwuor)
 
         ### 🦠 Influenza Genomic Epidemiology
-        Human influeza virus evolution and transmission
 
-        [Explore GitHub Repo](https://github.com/DCollinsOwuor/H1N1pdm09_Kenya_Phylodynamics)
+        <img src="/images/projects/influenza.jpg"
+             alt="Influenza Genomic Epidemiology"
+             style="width:100%; max-width:800px; height:auto; display:block; margin:20px auto; border-radius:12px;">
+
+        Human influenza virus evolution and transmission.
+
+        [👉 Explore GitHub Repository](https://github.com/DCollinsOwuor/H1N1pdm09_Kenya_Phylodynamics)
 
     design:
-      columns: 1   
+      columns: 1
+   
 ---
 
