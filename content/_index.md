@@ -59,7 +59,7 @@ sections:
              alt="Influenza Genomic Epidemiology"
              style="width:100%; max-width:800px; height:auto; display:block; margin:20px auto; border-radius:12px;">
 
-        Human influenza virus evolution and transmission.
+        Human influenza virus evolution and transmission
 
         [👉 Explore GitHub Repository](https://github.com/DCollinsOwuor/H1N1pdm09_Kenya_Phylodynamics)
 

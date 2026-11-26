@@ -53,3 +53,15 @@ Rotary Club President for Rotary year 2023–24, providing leadership, coordinat
 ## 🌐 Rotary International
 
 Rotary provides a platform for professionals and community leaders to work together to address pressing humanitarian and development challenges through service, collaboration, partnerships and sustainable action
+
+## 📚 Rotary Learning
+**1. Grant Management**
+
+<div style="border: 2px solid #d1d5db; border-radius: 12px; padding: 12px; max-width: 824px; margin: 20px auto; background: #ffffff;">
+
+  <img src="/images/projects/grants.jpg"
+       alt="Grant Management"
+       style="width:100%; height:auto; display:block; border-radius:8px;">
+
+</div>
+Grant Preparation | Grant Administration & Monitoring | Fundraising
